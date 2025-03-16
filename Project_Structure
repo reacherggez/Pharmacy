@@ -1,0 +1,15 @@
+pharmacy-website/
+│── public/
+│   ├── index.html
+│── src/
+│   ├── components/
+│   │   ├── Header.js
+│   │   ├── Hero.js
+│   │   ├── Products.js
+│   │   ├── Contact.js
+│   │   ├── Footer.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│── package.json
+│── README.md
